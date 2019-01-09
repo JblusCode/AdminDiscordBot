@@ -1,5 +1,5 @@
 # AdminDiscordBot - english and french version
-Several commands are in the bot to help you moderate your server discord, on bot you just have to modify the TOKEN and the prefix
+Sever commands are in the bot to help you moderate your server discord, on bot you just have to modify the TOKEN and the prefix
 
 # ENG -> once the bot download please read this for the bot works well:
 
